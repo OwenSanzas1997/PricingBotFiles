@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dataprint-price-crawler",
+  "private_key_id": "598db881bf07a4c6e20fb84ec663e2b15e9132f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoixcBYSAyVWlS\nf/aPxZKGNg06LVTcG7/fRPTkLTm183fYooZXTFxaAUxN25jUks6AkaJTYef2ci/A\nlxL/TTjIaLisLv3gRnXLBB5Zc+QCFTtswYdBsKzjvq1V8WjMyOHqwJjURcuiY+AM\n5EnAKz+VSBDA6vioMTLI+rdip0lOudnSk7/FKIsID4i71x9HQJkNFApVd6LPWjwL\n6b4IMkxtb43NdyXGPfvIZGSwj2dRPZXtHN54KG1bQjR8z7bn9/hGUZtxOqq4NE2I\n85GTH5iU96mQuiWr74rS+xjQL2DWaAs93wsuT/6YcvR8kwUe/y/eY6J+F2jFrq3v\nzlbrmp0PAgMBAAECggEAEYxVy1t49jSlYCUZn1ODU3z6OJXysW4kNpNf6gf5a8Pb\nNQ+K7Djznp1m++5CxdM5M/K103espqCx7xvrqvA32snofGjyHvFHH2mg3VBvK3ZZ\ndxPZSNIj1hyKwJl/f17lAsOlxeg0cQZ0E/OK6Dq4hor3z5ZHaH+i2YEdKeTgAZW1\nyq2s0o6MFV9vqAaOU+K7/0VwYLMKuiaXiDth17kePQec5jD29WK/1Y5mJDmt+2wo\nLacp5EY0bnNvvf8ZGpVa77brXy6s/jZOasEmgbSbCzhFuRdjmNzAL89ka1O5lloK\nmMKzzUYzMEpAQze7L/0Uw6o4ICTR5Gu3BVfJdK6I/QKBgQDdzGmvAlHDuLJNVsyE\nFatRlW4HLjW+kqNalAOrLZjxCJ2gR5rAgiFShEtH4o1b9DiL5+GQ1+33qA7wKqsW\n3iu1H+QkHh3N5xlVzHOLpTh731RnjCmJxb8svbqBv4fKgv1jcRlvKu5VVSOKdscP\nYnnNzq95K2vIX/fXUlmc3wDbwwKBgQDCiGhAIwnabZo79Xm4MmMt18BwD6l2CpRD\nmgrzUQr/qIHLFtoewfmcl6jL+APzMsUWQhwMr4NZLlGOEFfx+C9dINfJhX8waOiF\nTlPklO0RbF+FuRz5KHNL9bdJW7i3lQeciIkJBVngsf0i8nTsT7EU0pHcD5wv0Twt\naM64RLCAxQKBgDzZo/T7ser8dQ56zck/GK1dTb5ykxQhrudezFLeQ6N9NaGPg4ll\nKjc1TGIAab/clNbtWxkd5I+Zb9+8FQxFD8C1ayXtjUe8K1s6qEibn498ie+OqKa/\ntd9UfiKypVKN9W6ezNeO86w9m26Vf69c2QX5unKH0x46Fgjg8uzy0Y15AoGAIwFK\nySfE8SJB28I7afLfN/OX9FJNKymSLmv8xnXx5blbycDN9TTwhsYfoLx7cXrUTkIN\nLBc1KooUMN0uBiOj2j07t06naX2nQb2riPlng3gd5EFAPnGR9bw8hB3WKmrN2NQU\n3KOy3aUJqQ06Dv/0HIwbpR7F+zDKhF1UvYHWxQUCgYBlvDt+9/EUP7CjPwiWfBU/\n0xzy3yZ2ngWouB/21VSwoYAbl98e28S2e5nuBHs4jifa71wPWfsmm2Phq/xaKI4H\n70Fuc6wf2eon47r6gfy/p4i+NOy0k1aOdqbKSyMPsuFNeCQZuKoasqtGd62xF3A4\nG5lEFcqtwxJfCjlWIemwCA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dataprint-price-crawler@dataprint-price-crawler.iam.gserviceaccount.com",
+  "client_id": "105594767397858042261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dataprint-price-crawler%40dataprint-price-crawler.iam.gserviceaccount.com"
+}
